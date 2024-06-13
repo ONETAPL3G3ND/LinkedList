@@ -1,3 +1,5 @@
+#https://github.com/ONETAPL3G3ND
+
 class Node:
     def __init__(self, data):
         self.data = data
